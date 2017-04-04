@@ -1,6 +1,6 @@
 # Simple-Excel-To-Binary
 
-
+![](http://cfile10.uf.tistory.com/image/2757E73457A34E9D1EDC93)
 일단 바이너리로 변경할 엑셀파일의 구조는 최소한 위와같이 데이터들이 시작되는 첫번째 행에는 데이터 타입이 기입되어야 합니다.
 
 | String, UTF8, Unicode | 문자열(UTF8 혹은 유니코드)|
