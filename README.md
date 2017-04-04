@@ -2,8 +2,8 @@
 
 ![](http://cfile10.uf.tistory.com/image/2757E73457A34E9D1EDC93)
 
- 엑셀파일로 작성항 데이터를 바이너리 파일로 만들어주는 프로그램입니다.
-
+ 엑셀파일로 작성한 데이터를 바이너리 파일로 만들어주는 프로그램입니다.
+ 
 ![](http://cfile9.uf.tistory.com/image/230CB73C57A2191C1285C5)
 
 
